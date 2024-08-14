@@ -11,7 +11,7 @@ title: Xueqian Xiong
 # Description of the Site
 description: An architectural/urban designer
 # URL of Image of the Site
-site-image: https://raw.githubusercontent.com/Ellaxiong1/XueqianXiong/master/assets/images/sea.jpg
+site-image: https://github.com/Ellaxiong1/XueqianXiong/blob/master/assets/images/sea.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -43,11 +43,11 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: TheDevsLot
 # URL for the Image of the Author
-author-image: https://jekyll.github_make_website/XueqianXiong/assets/images/sea.jpg
+author-image: https://github.com/Ellaxiong1/XueqianXiong/blob/master/assets/images/sea.jpg
 # 60 Words About the Author
 author-about: I am a first-year graduate student at Harbin Institute of Technology (Shenzhen), majoring in architecture with a research focus on healthy living renewal and design. My undergraduate degree is from Sichuan University.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/Ellaxiong1
 
 # SASS
 sass:
