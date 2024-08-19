@@ -46,7 +46,19 @@ author-name: Xueqian Xiong
 # URL for the Image of the Author
 author-image: assets/images/people.jpg
 # 60 Words About the Author
-author-about: I am a first-year graduate student at Harbin Institute of Technology (Shenzhen), majoring in architecture with a research focus on healthy living renewal and design. My undergraduate degree is from Sichuan University.
+author-about: |
+  <h2>Biography</h2>
+  <p>Hi there, I am Xueqian Xiong from Chengdu, Sichuan, China. I used to study at Sichuan University. Now I am a first-year graduate student at Harbin Institute of Technology (Shenzhen), majoring in architecture with a research focus on healthy living renewal and design.</p>
+
+  <h3>Education</h3>
+  <p><strong>Sep. 2024 - Now:</strong> Master of Architecture, Architecture, Harbin Institute of Technology, Shenzhen</p>
+  <p><strong>Sep. 2019 - Jun. 2024:</strong> Bachelor of Architecture, Architecture, Sichuan University</p>
+
+  <h3>Research Interest</h3>
+  <ul>
+    <li>Built environment</li>
+    <li>Street view images (SVIs)</li>
+  </ul>
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/Ellaxiong1
 
